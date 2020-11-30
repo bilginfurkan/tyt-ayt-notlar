@@ -1,0 +1,1 @@
+![[ayt-fizik-atis-serbest-dusme-0.png]]
