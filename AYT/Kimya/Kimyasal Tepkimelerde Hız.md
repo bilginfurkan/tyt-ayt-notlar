@@ -1,7 +1,6 @@
 ## Kimyasal Tepkimelerde Hız
 
 ![[ayt-kimya-tepkime-hiz-0.jpg]]
-*Egzotermik bir tepkime*
 
 - Bir kimyasal tepkimenin çarpışmalar ile oluştuğunu öne süren teoriye **çarpışma teorisi** denir.
 - Tepkimenin gerçekleştiği çarpışmalara **etkin çarpışma** denir.
