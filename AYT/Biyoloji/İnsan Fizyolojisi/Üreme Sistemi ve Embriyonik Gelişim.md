@@ -5,7 +5,7 @@
 - Karın boşluğunun dışında **skortum** adı verilen bir kese içinde bulunur.
 - Temel 2 görevi vardır.
 	1. Sperm oluşumunu (spermatogenez) sağlamak.
-	2. Testosteron ve inhibin hormonu salgılamak.
+	2. Testosteron ve **inhibin hormonu** salgılamak.
 - Her biri **seminifer tüpçükleri** adındaki yapılardan oluşur. 
 	1. Bu yapılardaki **sperm ana hücrelerinden** sperm üretilir.
 	2. Bu yapıların arasında **sertoli hücreleri** ve **leyding hücreleri** bulunur. İlki spermlerin beslenmesini, diğeri ise testosteron hormunu üretimini sağlar.
@@ -25,8 +25,8 @@
 
 ### Spermatogenez (Sperm Oluşumu)
 ![[ayt-ureme-spermatogenez.png]]
-- Testislerde bulunan **Seminifer tüpçükler**de gerçekleşir.
-- Gerçekleşmesi
+- Testislerde bulunan **seminifer tüpçükler**de gerçekleşir.
+- Oluş sırası:
 	1. Sperm ana hücresi mitoz bölünme geçirerek birincil spermatositleri oluşturur.
 	2. Birincil spermatosit, mayoz 1 ile n koromozomlu ikincil spermatositleri oluşturur.
 	3. İkincil ise mayoz 2 geçirerek **spermatit** adı verilen 4 hücre oluşturur.
