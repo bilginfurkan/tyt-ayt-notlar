@@ -19,7 +19,7 @@
 	2. Seminal kese
 	3. Prostat bezi
 - Bu bezler **seminal sıvı** üretir.
-	1. Bu sıvı  spermleri dişi üreme sisteminin asidik yapısından korur.
+	1. Bu sıvı spermleri dişi üreme sisteminin asidik yapısından korur.
 	2. Ve spermlere hareket ortamı sağlayıp spermlerin dışarı atılmasını ve beslenmesini sağlar.
 - Seminal sıvı ve spermin oluşturduğu sıvıya **semen** denir.
 
@@ -59,6 +59,8 @@
 
 ### Yumurtalık
 - İçinde **folikül** adlı kesecikler bulunur. Mayoz bölünmenin birinci evresinde bekleyen birincil oositler bulunur.
+	1. Bu oositler insan doğduğunda tamamen oluşmuş şekilde gelir. 
+	2. Ergenlikten sonra her ay 1 tanesi olgunlaştırılır.
 - İki görevi vardır:
 	1. **Oogenez** (yumurta oluşumu) sağlar.
 	2. Östrojen ve progesteron hormonlarını salgılar.
@@ -81,7 +83,26 @@
 	3. Doğumun gerçekleşmesini sağlar.
 
 ### Oogenez (Yumurta Oluşumu)
-TODO
+![[ayt-biy-ureme-oogenez-folikul-0.png]]
+- Folikül hücrelerinde gerçekleşir.
+- Oluşu:
+	1. Yumurta ana hücresi (oogonium) mitoz geçirerek *birincil oositleri* oluşturur.
+	2. *Birincil oositler* embriyo döneminde mayoza başlar fakat mayozun **profaz I** aşamasında **durur**. Ergenlikte FSH hormonuyla **mayoz I** tamamlanır.
+	3. Mayoz I'in sonunda *ikincil oosit* ve birincil kutup hücresi oluşur. 
+	4. *İkincil oosit* hücreleri (n) mayoz II'ye başlar fakat **metafaz II'de** durur.
+	5. *İkincil oosit* ovaluasyon evresinde yumurta kanalına geçer, sperm ile döllenirse **mayoz II** tamamlanmış olur.
+	6. Mayoz II tamamlandıktan sonra zigot ve ikincil kutup hücresi oluşur.
+- **NOT:** Oluşan bütün kutup hücreleri oluştuktan sonra eriyerek kaybolur.
 
 ### Sistemin Hormonal Kontrolü
-TODO
+- GnRH hipofizi uyarıp **FSH ve LH** salgılatır.
+- **FSH**, yumurtalıktaki folikül hücreleri uyarır. Bu şekilde oogenez devam eder. Aynı zamanda folikül hücreleri östrojen salgılar.
+	1. Östrojen, **rahmin gelişmesini** ve dişilere ait **ikincil eşey** özelliklerin oluşmasını sağlar.
+- **LH**, yumurtalıkta ovulasyonu ve *korpus luteum*u oluşturur.
+	1. *Korpus luteum*, **fazla miktarda progesteron**, az miktarda östrojen salgılar.
+- Dişi ürüme sistemi iki geri beslenme ile kontrol edilir:
+	1. Kandaki **östrojen maksimum seviyeye** ulaşınca **hipotalamus ve hipofiz uyarılır**, sonuç olarak **FSH ve LH miktarı artar** ve ovulasyon gerçekleşir. (pozitif) 
+	2. Kandaki **progesteron miktarı östrojenle birlikte arttığında** hipotalamus ve hipofiz uyarılır, sonuç olarak **FSH ve LH miktarı azalır**. (negatif)
+- Yumurtalıktaki folikül hücrelerinden **inhibin hormonu** de salgılanır, bu FSH salgılanmasını azaltır. (negatif)
+
+### Menstrual Döngü
