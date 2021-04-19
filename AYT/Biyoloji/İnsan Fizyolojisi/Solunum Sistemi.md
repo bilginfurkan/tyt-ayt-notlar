@@ -64,16 +64,16 @@
 #### Oksijenin Taşınımı
 1. Oksijen %3 miktarda kan plazmasında çözünmüş halde taşınır.
 2. Alyuvarda %97 miktarda hemoglobin ile taşınnır **(oksihemoglobin)**.
-	- **Alveol Kılcallarında:** Oksijen difüzyon ile alveol kılcallarına geçer, hemoglobin ile birleşip **HbO<sub>2</sub>** yani **oksihemoglobin**i oluşturur.
-	- **Doku Kılcallarında:** CO<sub>2</sub> kana geçer, bunun sonucunda kan pH'ı **düşer** ve hemoglobinin oksijeni serbest bırakmasını sağlar (**Bohr Kayması**). Bunun etkisiyle oksijen bırakılır ve dokulara geçer.
+	- **Alveol Kılcallarında:** Oksijen difüzyon ile alveol kılcallarına geçer, hemoglobin ile birleşip **HbO~2~** yani **oksihemoglobin**i oluşturur.
+	- **Doku Kılcallarında:** CO~2~ kana geçer, bunun sonucunda kan pH'ı **düşer** ve hemoglobinin oksijeni serbest bırakmasını sağlar (**Bohr Kayması**). Bunun etkisiyle oksijen bırakılır ve dokulara geçer.
 
 #### Karbondioksit Taşınımı
 1. Karbondioksit %7 miktarda kan plazmasında çözünmüş halde taşınır.
 2. Karbondioksit %23 miktarda hemoglobin ile taşınır **(karbaminohemoglobin)**.
-	- **Doku Kılcallarında:**  Doku hücrelerinde oluşan CO<sub>2</sub>'lerin bir kısmı hemoglobinlere girer ve alveol kılcallarına kadar karbaminohemoglobin (HbCO<sub>2</sub>) olarak taşınır.
-	- **Alveol Kılcallarında:** CO<sub>2</sub> molekülleri hemoglobinlerden ayrılır, önce kan plazması ve sonra difüzyonla alveole geçer, en sonunda dışarı atılır.
+	- **Doku Kılcallarında:**  Doku hücrelerinde oluşan CO~2~'lerin bir kısmı hemoglobinlere girer ve alveol kılcallarına kadar karbaminohemoglobin (HbCO~2~) olarak taşınır.
+	- **Alveol Kılcallarında:** CO~2~ molekülleri hemoglobinlerden ayrılır, önce kan plazması ve sonra difüzyonla alveole geçer, en sonunda dışarı atılır.
 	- **NOT:** Karbaminohemeoglobin miktarı doku kılcallarında artıp, alveol kılcallarında azalır.
-3. Karbondioksit %70 miktarda kan plazmasında bikarbonat (HCO<sub>3</sub>) iyonu şeklinde taşınır.
-	- **Doku Kılcallarında:** CO<sub>2</sub> alyuvara geçer ve **karbonik anhidraz** enzimi sayesinde su ile birleşip H<sub>2</sub>CO<sub>3</sub> yani **karbonik asit** olur, karbonik asitten bir tane H kopar ve **H hemoglobinle birlikte alveole**, geriye kalan **HCO<sub>3</sub> plazmaya geçerek alveole gider**.
-	- **Alveol Kılcallarında:** Plazmada taşınan *HCO<sub>3</sub>* ile *H* birleşip karbonik asiti oluşturur. *Karbonik anhidraz* enzimi oluşan *karbonik asidi* H<sub>2</sub>O ve CO<sub>2</sub>'ye dönüştürür, oluşan CO<sub>2</sub> kan plazmasından alveole geçerek dışarı atılır.
-	- **NOT:** HCO<sub>3</sub> miktarı doku kılcallarında artıp, alveol kılcallarında azalır. 
+3. Karbondioksit %70 miktarda kan plazmasında bikarbonat (HCO~3~) iyonu şeklinde taşınır.
+	- **Doku Kılcallarında:** CO~2~ alyuvara geçer ve **karbonik anhidraz** enzimi sayesinde su ile birleşip H~2~CO~3~ yani **karbonik asit** olur, karbonik asitten bir tane H kopar ve **H hemoglobinle birlikte alveole**, geriye kalan **HCO~3~ plazmaya geçerek alveole gider**.
+	- **Alveol Kılcallarında:** Plazmada taşınan *HCO~3~* ile *H* birleşip karbonik asiti oluşturur. *Karbonik anhidraz* enzimi oluşan *karbonik asidi* H~2~O ve CO~2~'ye dönüştürür, oluşan CO~2~ kan plazmasından alveole geçerek dışarı atılır.
+	- **NOT:** HCO~3~ miktarı doku kılcallarında artıp, alveol kılcallarında azalır. 
