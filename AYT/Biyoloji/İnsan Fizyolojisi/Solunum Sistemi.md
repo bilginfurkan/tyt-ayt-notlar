@@ -30,6 +30,7 @@
 	3. Tek katlı **yassı epitel hücrelerinden** oluşurlar, bu hücrelerden **sürfaktan** salgılanır.
 	4. *Sürfaktan* yüzey gerilimini azaltıp alveollere esneklik kazandırır.
 	5. Alveollerde ayriyetten **fagasitoz yapan hücreler bulunur**, bunlar yabancı organizmaları yok eder. 
+- Sağ akciğer üç, sol akçiğer iki bölmelidir.
 
 ### Soluk Alıp Verme
 - Basınç değişimi ile olur.
@@ -43,6 +44,12 @@
 	3. Karın boşluğu **hacmi artar**, iç **basıncı düşer**.
 - Soluk verirken **geri yaylanma basıncı**, akciğerin eski hâline dönme isteği,  etkilidir.
 - **Soluk verirken de enerji harcanır**, ama yine soluk alırken daha fazla eneri kullanılır.
+
+#### Yutkunma sırasında
+1. Gırtlak yukarı doğru kalkar.
+2. Epiglottis geriye doğru yatar.
+3. Soluk borusu girişi kapanır.
+
 
 ### Soluk Alıp Vermenin Kontrolü
 - Soluk alıp verme hızı **pons ve omurilik soğanı** tarafından kontrol edilir.
